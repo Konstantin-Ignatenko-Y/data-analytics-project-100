@@ -12,5 +12,3 @@ CSV: ads.csv
 
 Результат - charts_project.ipynb, presentation.pdf
 
-Результат обработки данных, файлы: conversion.json, ads.json
-Графики (линейные, столбчатые, с накоплением) в папке charts
